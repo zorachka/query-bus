@@ -1,11 +1,11 @@
 {
-    "name": "zorachka/command-bus",
-    "description": "Zorachka Command Bus",
+    "name": "zorachka/query-bus",
+    "description": "Zorachka Query Bus",
     "keywords": [
         "zorachka",
-        "command bus"
+        "query bus"
     ],
-    "homepage": "https://github.com/zorachka/command-bus",
+    "homepage": "https://github.com/zorachka/query-bus",
     "license": "MIT",
     "authors": [
         {
